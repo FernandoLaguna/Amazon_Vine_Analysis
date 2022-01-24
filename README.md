@@ -19,6 +19,6 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 ## Summary
 
-It is not a good idea to pay for this service, the percentage of 5 stars obtained in the free service is higher than the one that we obtained paying. Besides it the number of reviews obtained in the paid service is very low
+It is not a good idea to pay for this service, the percentage of 5 stars obtained in the free service is higher than the one that we obtained paying. Besides, the number of reviews obtained in the paid service is very low
 
 ![Dataframe](results.png)
